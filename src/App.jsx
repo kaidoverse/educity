@@ -8,7 +8,9 @@ const App = () => {
     <div>
       <Navigation />
       <Hero />
-      <Programs />
+      <div className="container">
+        <Programs />
+      </div>
     </div>
   )
 }
