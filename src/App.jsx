@@ -10,7 +10,7 @@ const App = () => {
       <Navigation />
       <Hero />
       <div className="container">
-        <Title />
+        <Title subTitle='Our Program' title='what we offer' />
         <Programs />
       </div>
     </div>
